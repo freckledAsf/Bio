@@ -8,5 +8,5 @@ I'm currently working with all of these languages and frameworks, I've worked on
 []()
 `This list is sorted by knowledge in descending order`
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,java,python" width="50%" />
+  <img src="https://skillicons.dev/icons?i=ts,react,next,java,python" width="50%" />
 </p>
