@@ -9,3 +9,7 @@ I'm currently working with all of these languages and frameworks, I've worked on
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,next,kotlin,php,mongo,mysql,redux,figma" width="50%" />
 </p>
+
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freckledAsf&theme=github_dark)
